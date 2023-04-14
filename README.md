@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Not Found - Page}</h1>
+<h1 align="center">404 Not Found - Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://devchallenges.io/solutions/TH47cNzwxIURX2RQaB0l" target="_blank">Devchallenges.io</a>.
@@ -28,15 +28,15 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
+<!-- - [Features](#features) -->
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+<!-- - [Acknowledgements](#acknowledgements) -->
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://imgur.com/a/IhdZbqC)
+<!-- ![screenshot](https://imgur.com/a/IhdZbqC) -->
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -68,9 +68,9 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+<!-- - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked) -->
+- [Marked - a markdown parser](https://github.com/chjj/marked) --> -->
 
 ## Contact
 
